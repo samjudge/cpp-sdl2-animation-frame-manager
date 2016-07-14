@@ -1,0 +1,82 @@
+<unit name="player">
+	<actionAnimation name="idle-down">
+		<imagesrc>skeleton.bmp</imagesrc>
+		<imgSourceX>32</imgSourceX>
+		<imgSourceY>352<imgSourceY>
+		<frameWidth>64</frameWidth>
+		<frameHeight>64</frameHeight>
+		<frameMax>0</frameMax>
+		<frameOffsetX>0</frameOffsetX>
+		<frameOffsetY>0</frameOffsetY>
+	</actionAnimation>
+	<actionAnimation name="idle-up">
+		<imagesrc>skeleton.bmp</imagesrc>
+		<imgSourceX>32</imgSourceX>
+		<imgSourceY>416<imgSourceY>
+		<frameWidth>64</frameWidth>
+		<frameHeight>64</frameHeight>
+		<frameMax>0</frameMax>
+		<frameOffsetX>0</frameOffsetX>
+		<frameOffsetY>0</frameOffsetY>
+	</actionAnimation>
+	<actionAnimation name="idle-left">
+		<imagesrc>skeleton.bmp</imagesrc>
+		<imgSourceX>160</imgSourceX>
+		<imgSourceY>224<imgSourceY>
+		<frameWidth>34</frameWidth>
+		<frameHeight>64</frameHeight>
+		<frameMax>0</frameMax>
+		<frameOffsetX>0</frameOffsetX>
+		<frameOffsetY>0</frameOffsetY>
+	</actionAnimation>
+	<actionAnimation name="idle-right">
+		<imagesrc>skeleton.bmp</imagesrc>
+		<imgSourceX>384</imgSourceX>
+		<imgSourceY>224<imgSourceY>
+		<frameWidth>34</frameWidth>
+		<frameHeight>64</frameHeight>
+		<frameMax>0</frameMax>
+		<frameOffsetX>0</frameOffsetX>
+		<frameOffsetY>0</frameOffsetY>
+	</actionAnimation>
+	<actionAnimation name="walk-down">
+		<imagesrc>skeleton.bmp</imagesrc>
+		<imgSourceX>32</imgSourceX>
+		<imgSourceY>352<imgSourceY>
+		<frameWidth>64</frameWidth>
+		<frameHeight>64</frameHeight>
+		<frameMax>7</frameMax>
+		<frameOffsetX>64</frameOffsetX>
+		<frameOffsetY>0</frameOffsetY>
+	</actionAnimation>
+	<actionAnimation name="walk-up">
+		<imagesrc>skeleton.bmp</imagesrc>
+		<imgSourceX>32</imgSourceX>
+		<imgSourceY>416<imgSourceY>
+		<frameWidth>64</frameWidth>
+		<frameHeight>64</frameHeight>
+		<frameMax>7</frameMax>
+		<frameOffsetX>0</frameOffsetX>
+		<frameOffsetY>0</frameOffsetY>
+	</actionAnimation>
+	<actionAnimation name="walk-left">
+		<imagesrc>skeleton.bmp</imagesrc>
+		<imgSourceX>160</imgSourceX>
+		<imgSourceY>224<imgSourceY>
+		<frameWidth>32</frameWidth>
+		<frameHeight>64</frameHeight>
+		<frameMax>3</frameMax>
+		<frameOffsetX>32</frameOffsetX>
+		<frameOffsetY>0</frameOffsetY>
+	</actionAnimation>
+	<actionAnimation name="walk-right">
+		<imagesrc>skeleton.bmp</imagesrc>
+		<imgSourceX>384</imgSourceX>
+		<imgSourceY>224<imgSourceY>
+		<frameWidth>32</frameWidth>
+		<frameHeight>64</frameHeight>
+		<frameMax>3</frameMax>
+		<frameOffsetX>32</frameOffsetX>
+		<frameOffsetY>0</frameOffsetY>
+	</actionAnimation>
+</unit>
